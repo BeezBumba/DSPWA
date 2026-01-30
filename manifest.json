@@ -1,0 +1,19 @@
+{
+  "name": "DS Emulator",
+  "short_name": "DS Emulator",
+  "description": "A Nintendo DS emulator that runs directly in your browser.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "250x250.png",
+      "sizes": "250x250",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
