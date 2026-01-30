@@ -11,7 +11,7 @@ const ASSETS = [
 
   // Static scripts
   "/static/wasmemulator.js",
-  "/static/wasmemulator.wasm"
+  "/static/wasmemulator.wasm",
   "/static/webmelon.js",
 
   // Add sw.js itself (optional but recommended)
