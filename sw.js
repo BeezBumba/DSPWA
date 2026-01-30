@@ -7,6 +7,7 @@ const ASSETS = [
   // Assets from your HTML
   "/assets/index-CTXUo8vA.js",
   "/assets/index-CqXIiIDh.css",
+  "/manifest.json",
 
   // Static scripts
   "/static/wasmemulator.js",
